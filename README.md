@@ -33,7 +33,7 @@ This is not some over-engineered app. It does one job and does it cleanly.
 ## 📸 Screenshots
 
 <p float="left">
-  <img src="assets/screenshots/home.png" width="200"/>
-  <img src="assets/screenshots/preview.png" width="200"/>
-  <img src="assets/screenshots/set_wallpaper.png" width="200"/>
+  <img src="assets/screenshots/home.png" width="300"/>
+  <img src="assets/screenshots/preview.png" width="300"/>
+  <img src="assets/screenshots/set_wallpaper.png" width="300"/>
 </p>
