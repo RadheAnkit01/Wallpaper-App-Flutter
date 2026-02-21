@@ -1,4 +1,4 @@
-# Free Wallpaper App (Flutter)
+# Wallpaper App (Flutter)
 
 A simple Flutter-based wallpaper application that fetches high-quality images using the **Pexels API** and allows users to set them as **Home Screen**, **Lock Screen**, or **Both**.
 
@@ -29,3 +29,11 @@ This is not some over-engineered app. It does one job and does it cleanly.
 - Android native wallpaper manager integration
 
 ---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="assets/screenshots/home.png" width="200"/>
+  <img src="assets/screenshots/preview.png" width="200"/>
+  <img src="assets/screenshots/set_wallpaper.png" width="200"/>
+</p>
