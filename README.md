@@ -1,17 +1,31 @@
-# wallpaper
+# Free Wallpaper App (Flutter)
 
-A new Flutter project.
+A simple Flutter-based wallpaper application that fetches high-quality images using the **Pexels API** and allows users to set them as **Home Screen**, **Lock Screen**, or **Both**.
 
-## Getting Started
+This is not some over-engineered app. It does one job and does it cleanly.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Browse high-quality wallpapers from Pexels
+- Grid-based modern UI
+- Full-screen wallpaper preview
+- Set wallpaper for:
+  - Home Screen
+  - Lock Screen
+  - Both Screens
+- Download wallpapers locally
+- Load more wallpapers (pagination support)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Tech Stack
+
+- **Flutter**
+- **Dart**
+- **Pexels REST API**
+- HTTP package
+- Android native wallpaper manager integration
+
+---
